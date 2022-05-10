@@ -4,4 +4,4 @@ Hello Odin!
 
 git add
 git commit -m "Edit file_name"
-git push
+git push origin main
